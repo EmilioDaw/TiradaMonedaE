@@ -1,4 +1,5 @@
-package tiradaMoneda;
+package extraer;
+
 
 import java.util.Scanner;
 
